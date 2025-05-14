@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahyu Eko Laksono</h1>
-<h3 align="center">A passionate developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Combining a keen eye for detail with a growing passion for full-stack development — I test, build, and improve applications that solve real-world problems.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wayhyou&label=Profile%20views&color=0e75b6&style=flat" alt="wayhyou" />
@@ -12,7 +12,7 @@
 - 🔭 Saat ini saya sedang mengerjakan beberapa proyek pribadi dan open-source
 - 🌱 Sedang mendalami: `TypeScript`, `React`, dan `Node.js`
 - 💬 Tanya saya tentang: `JavaScript`, `Web Development`, dan `UI/UX Design`
-- 📫 Hubungi saya di: `emailanda@example.com`
+- 📫 Hubungi saya di: `ekow60006@gmail.com`
 - ⚡ Fun fact: Saya suka mengembangkan aplikasi yang bermanfaat bagi masyarakat
 
 ---
