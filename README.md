@@ -54,7 +54,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/wahyu-laksono-46977516b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ekow60006@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://wayhyou.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000?logo=vercel&logoColor=white" /></a>
+  <a href="https://wewall.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000?logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
